@@ -22,7 +22,7 @@ namespace SplatoonScriptsOfficial.Duties.Dawntrail;
 public class R4S_Sunrise_Licey : SplatoonScript
 {
     public override HashSet<uint>? ValidTerritories { get; } = [1232];
-    public override Metadata? Metadata => new(3, "NightmareXIV");
+    public override Metadata? Metadata => new(3, "Yumekkodayo");
     uint DebuffYellow = 4000;
     uint DebuffBlue = 4001;
     string GunYellow = "vfx/common/eff/m0888_stlp04_c0t1.avfx";
