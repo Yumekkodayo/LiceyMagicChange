@@ -5,8 +5,8 @@
 
 ## M4S本体脑死塔
 
-### [Script] Sunrise Sabbath complete resolution
-**REQUIRES CONFIGURATION**
+### [Script] 日出仙人指路
+**需要设置**
 ```
 https://github.com/Yumekkodayo/LiceyMagicChange/raw/main/main/scripts/raid/R4S_Sunrise_Licey.cs
 ```
