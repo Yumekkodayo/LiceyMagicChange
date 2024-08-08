@@ -8,7 +8,7 @@
 ### [Script] 日出仙人指路
 **需要设置**
 ```
-https://github.com/Yumekkodayo/LiceyMagicChange/raw/main/scripts/raid/R4S_Sunrise_Licey.cs
+https://github.com/Yumekkodayo/LiceyMagicChange/raw/main/scripts/raid/R4S%20Sunrise%20Licey.cs
 ```
 **!!!!! 已测试 !!!!!** 无脑塔射法 [uptime strat](https://raidplan.io/plan/OnQXobwatopL1G8u). 打开脚本设置，注册元素，然后复制下面长按ctrl点击导入。
 ```
